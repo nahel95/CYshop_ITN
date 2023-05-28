@@ -1,0 +1,11 @@
+Nom du produit : Eau   Ref : 1   Taille : 2   Qte : 15   Prix : 3.000000
+Nom du produit : Coca-Cola   Ref : 2   Taille : 3   Qte : 7   Prix : 5.000000
+Nom du produit : Fanta_Orang   Ref : 2   Taille : 3   Qte : 7   Prix : 5.000000
+Nom du produit : Fanta_Citron   Ref : 4   Taille : 3   Qte : 10   Prix : 6.000000
+Nom du produit : Ic   Ref : 4   Taille : 3   Qte : 10   Prix : 6.000000
+Nom du produit : Orangina   Ref : 6   Taille : 2   Qte : 9   Prix : 3.750000
+Nom du produit : Fuz   Ref : 6   Taille : 2   Qte : 9   Prix : 3.750000
+Nom du produit : S   Ref : 6   Taille : 2   Qte : 9   Prix : 3.750000
+Nom du produit : Sprit   Ref : 6   Taille : 2   Qte : 9   Prix : 3.750000
+Nom du produit : Oasis_Tropical   Ref : 10   Taille : 2   Qte : 4   Prix : 3.750000
+Nom du produit : Hawai   Ref : 11   Taille : 3   Qte : 5   Prix : 6.750000
