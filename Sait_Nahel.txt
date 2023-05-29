@@ -1,4 +1,0 @@
-Nom : Sait
-Prenom : Nahel
-Mot de Passe : nahel
--------------------------
