@@ -1,4 +1,0 @@
-Nom : Messi
-Prenom : Lionel
-Mot de Passe : goat
--------------------------
