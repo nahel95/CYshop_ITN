@@ -1,4 +1,0 @@
-Nom : Lebron
-Prenom : James
-Mot de Passe : king
--------------------------
