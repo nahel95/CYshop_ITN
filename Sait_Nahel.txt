@@ -1,0 +1,30 @@
+Nom : Sait
+Prenom : Nahel
+Mot de Passe : nahel
+-------------------------
+Nom du produit : Coca-Zero
+Reference : 12
+Quantite : 1
+Prix unitaire : 2.500000
+-------------------------
+Historique des achats :
+Nom du produit : Coca-Zero   Ref : 12   Taille : 2   Qte : 1   Prix : 2.50
+Nom du produit : 
+Reference : 0
+Quantite : 0
+Prix unitaire : 0.000000
+-------------------------
+Nom du produit : Fanta_Orange
+Reference : 3
+Quantite : 2
+Prix unitaire : 3.000000
+-------------------------
+Nom du produit : SevenUp
+Reference : 8
+Quantite : 2
+Prix unitaire : 3.500000
+-------------------------
+Historique des achats :
+Nom du produit :    Ref : 0   Taille : 0   Qte : 0   Prix : 0.00
+Nom du produit : Fanta_Orange   Ref : 3   Taille : 1   Qte : 2   Prix : 3.00
+Nom du produit : SevenUp   Ref : 8   Taille : 2   Qte : 2   Prix : 3.50
