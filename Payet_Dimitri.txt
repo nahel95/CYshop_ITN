@@ -1,0 +1,29 @@
+Nom : Payet
+Prenom : Dimitri
+Mot de Passe : om
+-------------------------
+Nom du produit : 
+Reference : 0
+Quantite : 0
+Prix unitaire : 0.000000
+-------------------------
+Nom du produit : 
+Reference : 0
+Quantite : 0
+Prix unitaire : 0.000000
+-------------------------
+Nom du produit : 
+Reference : 0
+Quantite : 0
+Prix unitaire : 0.000000
+-------------------------
+Nom du produit : SevenUp
+Reference : 8
+Quantite : 1
+Prix unitaire : 3.500000
+-------------------------
+Historique des achats :
+Nom du produit :    Ref : 0   Taille : 0   Qte : 0   Prix : 0.00
+Nom du produit :    Ref : 0   Taille : 0   Qte : 0   Prix : 0.00
+Nom du produit :    Ref : 0   Taille : 0   Qte : 0   Prix : 0.00
+Nom du produit : SevenUp   Ref : 8   Taille : 2   Qte : 1   Prix : 3.50
